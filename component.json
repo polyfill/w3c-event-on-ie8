@@ -1,0 +1,12 @@
+{
+  "name": "w3c-event-on-ie8",
+  "repo": "polyfill/w3c-event-on-ie8",
+  "description": "Polyfill W3C DOM event on IE8",
+  "version": "0.0.1",
+  "keywords": [],
+  "license": "MIT",
+  "main": "w3c-event-on-ie8.js",
+  "scripts": [
+    "w3c-event-on-ie8.js"
+  ]
+}
